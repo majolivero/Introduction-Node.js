@@ -1,0 +1,12 @@
+{
+  "name": "introduction-node",
+  "version": "1.0.0",
+  "description": "Node.js es un entorno de tiempo de ejecución para JavaScript construido con el motor V8 de Chrome. Permite ejecutar JavaScript en el lado del servidor. npm es el gestor de paquetes predeterminado para Node.js.",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
