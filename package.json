@@ -4,13 +4,22 @@
   "description": "Node.js es un entorno de tiempo de ejecución para JavaScript construido con el motor V8 de Chrome. Permite ejecutar JavaScript en el lado del servidor. npm es el gestor de paquetes predeterminado para Node.js.",
   "main": "hello-world.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Maria Jose Olivero Carrascal",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.2",
     "express": "^4.19.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/majolivero/Introduction-Node.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/majolivero/Introduction-Node.js/issues"
+  },
+  "homepage": "https://github.com/majolivero/Introduction-Node.js#readme"
 }
